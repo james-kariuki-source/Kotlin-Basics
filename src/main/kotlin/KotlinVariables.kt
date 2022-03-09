@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
     val userName = "James"
     var userCity: String = "Nairobi"
     var age: Int = 20
