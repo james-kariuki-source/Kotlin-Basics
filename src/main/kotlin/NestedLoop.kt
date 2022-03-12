@@ -13,3 +13,14 @@ fun main(){
 
     } while(g <= 5)
 }
+
+/*fun main(){
+    var f = 8
+    var x = 0
+
+    while (f > 1) {
+        f /= 2
+        x++
+    }
+    println(x)
+}*/
